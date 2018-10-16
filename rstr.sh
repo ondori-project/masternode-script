@@ -44,8 +44,6 @@ server=1
 daemon=1
 port=22620
 
-addnode=149.28.68.65
-addnode=107.191.58.74
 EOF
 }
 
